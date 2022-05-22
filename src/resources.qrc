@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fresko.jpg</file>
+        <file>images/harold_hide_the_pain.jpg</file>
+        <file>images/elon_musk_smoke.jpg</file>
+        <file>images/linus_torvalds_nvidia.jpg</file>
+        <file>images/borat.jpg</file>
+        <file>images/diktator.jpg</file>
+        <file>images/rick_astley.jpg</file>
+        <file>images/hackerman1.jpg</file>
+        <file>images/hackerman2.jpg</file>
+        <file>images/gendalf1.jpg</file>
+        <file>images/spidermans.jpg</file>
+        <file>images/stonks.jpg</file>
+        <file>images/uganda_knukles.jpg</file>
+        <file>images/pikachu.jpg</file>
+        <file>images/momo.jpg</file>
+        <file>images/dwayne_douglas_johnson.jpg</file>
+        <file>images/trumpet_skull.jpg</file>
+        <file>images/trumpet.jpg</file>
+        <file>images/roll_safe.jpg</file>
+        <file>images/keanu.jpg</file>
+        <file>images/anonimous.jpg</file>
+        <file>images/cage.jpg</file>
+        <file>images/oh_my1.jpg</file>
+        <file>images/oh_my2.jpg</file>
+        <file>images/vitas.jpg</file>
+        <file>images/we_are_number_one.jpg</file>
+        <file>images/xzibit.jpg</file>
+        <file>images/yoshi.jpg</file>
+        <file>images/jay_z.jpg</file>
+        <file>images/jozin_z_bazin.jpg</file>
+        <file>images/ill_be_back.jpg</file>
+        <file>images/the_q.jpg</file>
+    </qresource>
+</RCC>
